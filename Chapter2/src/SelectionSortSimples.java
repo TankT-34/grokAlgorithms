@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class SelectionSortSimples {
     public static int findSmallest(int[] arr){
         int small = arr[0];
         int small_index = 0;
