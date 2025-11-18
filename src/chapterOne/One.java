@@ -19,6 +19,7 @@ public class One {
     public static void main(String[] args) {
         int my_list[] = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19};
         System.out.println("Массив: 1 3 5 7 9 11 13 15 17 19");
+
         int size = my_list.length;
         Scanner scanner = new Scanner(System.in);
         int item = scanner.nextInt();
